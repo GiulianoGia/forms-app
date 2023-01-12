@@ -28,6 +28,23 @@
   color: #61dafb;
 }
 
+.ToggleButton {
+  width: 200px;
+  height: 50px;
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: black;
+  font-size: 32px;
+  text-align: left;
+}
+
+.ToggleButton span {
+  margin-left: 20px;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
